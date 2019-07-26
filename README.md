@@ -1,2 +1,2 @@
 # franz-clubhouse-integration
-A really simple integration of Culbhous.io into Franz
+A really simple integration of Culbhouse.io into Franz
