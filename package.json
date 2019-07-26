@@ -1,0 +1,13 @@
+{
+  "id": "clubhouse",
+  "name": "clubhouse.io",
+  "version": "1.0.0",
+  "description": "Clubhouse.io",
+  "main": "index.js",
+  "author": "Vasilis Odysseos",
+  "license": "CC-BY-NC-1.0",
+  "repository": "https://github.com/vasilis/franz-clubhouse-integration",
+  "config": {
+    "serviceURL": "https://app.clubhouse.io/"
+  }
+}
